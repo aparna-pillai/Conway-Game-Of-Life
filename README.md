@@ -1,3 +1,5 @@
+**Conway Game of Life**
+
 Rutgers University Data Structures Assignment 
 Problem by Seth Kelly and Maxwell Goldberg
 
